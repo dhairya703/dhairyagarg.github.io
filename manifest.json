@@ -1,11 +1,11 @@
 {
-    "name": "chatgpt",
-    "short_name": "chatgpt",
+    "name": "portfoliowebapp",
+    "short_name": "portfoliowebapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "portfoliowebsite",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
